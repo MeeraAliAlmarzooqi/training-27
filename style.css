@@ -1,0 +1,33 @@
+.head1 {
+    display: flex;
+    gap: 80rem;
+    font-size: 25px;
+}
+
+.page1 {
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    height: 100vh;
+    border: 2px solid rgb(134, 92, 99);
+}
+
+.description {
+    font-size: 20px;
+}
+
+.body-pg1 {
+    margin-top: 150px;
+    margin-left: 50px;
+    display: flex;
+    gap: 70rem;
+    letter-spacing: 2px;
+}
+
+.image {
+    object-fit: cover;
+    width: 110rem;
+    height: 35rem;
+    padding: 30px;
+    transform: scale(0.9);
+}
